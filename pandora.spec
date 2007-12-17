@@ -10,7 +10,6 @@ Source0: pandora-combine-%{version}.scm
 License: GPL
 Group: Graphics
 Url: http://shallowsky.com/software/pandora/
-BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires: libgimp-devel >= 2.0
 
 %description
