@@ -1,6 +1,6 @@
 %define name pandora
 %define version 0.9.2
-%define release %mkrel 1
+%define release %mkrel 3
 
 Summary: GIMP plugin for making panoramas
 Name: %{name}
