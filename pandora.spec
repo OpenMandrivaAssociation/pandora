@@ -1,7 +1,7 @@
 Summary:	GIMP plugin for making panoramas
 Name:		pandora
 Version:	0.9.3
-Release:	3
+Release:	4
 License:	GPL
 Group:		Graphics
 Url:		http://shallowsky.com/software/pandora/
