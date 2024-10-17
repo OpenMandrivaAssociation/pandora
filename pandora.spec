@@ -4,7 +4,7 @@ Version:	0.9.3
 Release:	4
 License:	GPL
 Group:		Graphics
-Url:		http://shallowsky.com/software/pandora/
+Url:		https://shallowsky.com/software/pandora/
 Source0:	http://shallowsky.com/software/pandora/pandora-combine-%{version}.scm
 BuildRequires:	gimp-devel >= 2.0
 BuildArch:	noarch
